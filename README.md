@@ -1,5 +1,7 @@
 # catty music app
 
+https://itskoyii.github.io/catty-music/
+
 This is originally a CSS tutorial by Ohans Emmanuel's Catty Music App Layout with CSS Grid. 
 
 I created my own version in Webflow with enhanced stylings and added animations. This is my first Webflow project and I'm pretty proud of it! 😄
